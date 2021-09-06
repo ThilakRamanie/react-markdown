@@ -4,4 +4,4 @@ React markdown a npm package converting the markdown syntaxes to beautiful snipp
 ## npm install
 ## npm start
 
-<a href="https://hungry-euclid-b061ee.netlify.app/">Click here to view t6he markdown</a>
+<a href="https://hungry-euclid-b061ee.netlify.app/">Click here to view the markdown</a>
